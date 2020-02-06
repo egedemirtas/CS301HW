@@ -1,2 +1,1 @@
-def main():
-    print("\nhello world")
+print("\nhello world\n")
